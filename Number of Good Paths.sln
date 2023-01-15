@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of Good Paths", "Number of Good Paths\Number of Good Paths.csproj", "{0DCA6870-1122-474D-8561-1E800AC564AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DCA6870-1122-474D-8561-1E800AC564AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCA6870-1122-474D-8561-1E800AC564AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCA6870-1122-474D-8561-1E800AC564AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCA6870-1122-474D-8561-1E800AC564AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {367CA4CA-AC32-4299-BDBB-F504E4294356}
+	EndGlobalSection
+EndGlobal
